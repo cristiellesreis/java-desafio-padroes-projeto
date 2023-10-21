@@ -1,2 +1,2 @@
 # Desafio em Java
- Explorando Padrões de Projetos na Prática com Java.
+Praticando com java puro (Singleton, Strategy, Facade).
