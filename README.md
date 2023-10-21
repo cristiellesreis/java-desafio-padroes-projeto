@@ -1,2 +1,2 @@
-# java-desafio_padroes_projeto
+# Desafio em Java
  Explorando Padrões de Projetos na Prática com Java.
